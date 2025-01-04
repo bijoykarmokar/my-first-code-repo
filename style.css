@@ -1,0 +1,90 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+#div-parent{
+    text-align: center;
+    border: 3px solid goldenrod;
+    padding: 40px;
+}
+#div-parent > h2{
+    font-size: 25px;
+    margin-bottom: 15px;
+    color: coral;
+    text-decoration: overline underline green;
+}
+
+
+#div1{
+    background-color: rgba(0, 255, 255, 0.375);
+    padding: 10px 0;
+    margin-bottom: 10px;
+    border-radius: 10px;
+
+}
+#div1 >h3{
+  font-size: 20px;
+  text-decoration: underline black;
+  margin-bottom: 5px;
+  color: yellow;
+}
+#div2{
+    background-color: rgba(128, 128, 128, 0.596);
+    padding: 10px 0;
+    margin-bottom: 10px;
+    border-radius: 10px;
+
+}
+#div2 >h3{
+  font-size: 20px;
+  text-decoration: underline red;
+  margin-bottom: 5px;
+  color: rgb(50, 71, 9);
+}
+#div3{
+    background-color: rgba(77, 184, 77, 0.559);
+    padding: 10px 0;
+    margin-bottom: 10px;
+    border-radius: 10px;
+
+}
+#div3 >h3{
+  font-size: 20px;
+  text-decoration: underline brown;
+  margin-bottom: 5px;
+  color: wheat;
+}
+#div4{
+    background-color: rgba(240, 230, 140, 0.544);
+    padding: 10px 0;
+    margin-bottom: 10px;
+    border-radius: 10px;
+
+   
+}
+#div4 >h3{
+  font-size: 20px;
+  text-decoration: underline violet;
+  margin-bottom: 5px;
+  color: brown;
+}
+#div5{
+    background-color: dodgerblue;
+    padding: 10px 0;
+    margin-bottom: 10px;
+    border-radius: 10px;
+
+}
+img{
+border: 3px solid yellowgreen;
+height: 200px;
+width: 200px;
+border-radius: 15px;
+}
+#div5 >h3{
+  font-size: 20px;
+  text-decoration: underline rgb(28, 70, 148);
+  margin-bottom: 5px;
+  color: magenta;
+}
